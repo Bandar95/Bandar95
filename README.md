@@ -1,7 +1,7 @@
 # SomeInfo 
 
 
-First of all, i am not professional in DS, i have just entered this field, i took some courses on it in Python, Descriptive statistic , and some courses when i was in the college.
+First of all, i am not professional in Data Analysis, i have just entered this field, i took some courses on it in Python, Descriptive statistic , and some courses when i was in the college.
 
 Moreover, in this file i applied some Data Analysis technques on certain data i have took it from IBM during Online Course, tichiques such as DealingWithMissingValues, Data standardization, Data Normlization, Binning , Indicator variable .
 
