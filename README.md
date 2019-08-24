@@ -13,7 +13,7 @@ so let me explain some concepts related to data analysis before we start.
 Data Wrangling has several diffrent names, it can be defined as the process of converting data from the initial format to a format that may be better for analysis.
 
 
-all techniques mentioned above located under this concept (Data Wrangling) .
+all techniques mentioned below located under this concept (Data Wrangling) .
 
 
 ** Dealing with Missing Values, by follwoing these steps : 1. Identify Missing value 2. then dealing with it weather by replace the data or drop it .
